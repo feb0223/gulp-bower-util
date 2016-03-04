@@ -1,0 +1,11 @@
+{
+  "name": "gulp-bower-util",
+  "version": "0.0.0",
+  "author": "",
+  "description": "gulp-bower-util",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-bower": "0.0.10",
+    "gulp-notify": "^2.2.0"
+  }
+}
